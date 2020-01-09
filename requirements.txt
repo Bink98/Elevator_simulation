@@ -1,0 +1,42 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: win-64
+blas=1.0=mkl
+ca-certificates=2019.11.27=0
+certifi=2019.11.28=py36_0
+cycler=0.10.0=py36h009560c_0
+emoji=0.5.4=pypi_0
+freetype=2.9.1=ha9979f8_1
+icc_rt=2019.0.0=h0cc432a_1
+icu=58.2=ha66f8fd_1
+intel-openmp=2019.4=245
+jpeg=9b=hb83a4c4_2
+kiwisolver=1.1.0=py36ha925a31_0
+libpng=1.6.37=h2a8f88b_0
+matplotlib=3.1.1=py36hc8f65d3_0
+mkl=2019.4=245
+mkl-service=2.3.0=py36hb782905_0
+mkl_fft=1.0.15=py36h14836fe_0
+mkl_random=1.1.0=py36h675688f_0
+numpy=1.17.4=py36h4320e6b_0
+numpy-base=1.17.4=py36hc3f5095_0
+openssl=1.1.1d=he774522_3
+pip=19.3.1=py36_0
+pyparsing=2.4.6=py_0
+pypubsub=4.0.3=pypi_0
+pyqt=5.9.2=py36h6538335_2
+python=3.6.9=h5500b2f_0
+python-dateutil=2.8.1=py_0
+pytz=2019.3=py_0
+qt=5.9.7=vc14h73c81de_0
+setuptools=44.0.0=py36_0
+sip=4.19.8=py36h6538335_0
+six=1.13.0=py36_0
+sqlite=3.30.1=he774522_0
+tornado=6.0.3=py36he774522_0
+vc=14.1=h0510ff6_4
+vs2015_runtime=14.16.27012=hf0eaf9b_1
+wheel=0.33.6=py36_0
+wincertstore=0.2=py36h7fe50ca_0
+wxpython=4.0.4=py36ha925a31_0
+zlib=1.2.11=h62dcd97_3
